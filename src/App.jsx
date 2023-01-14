@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="font-bold text-2xl">React Tailwind</h1>
+      <h1 className="text-2xl font-poppins ">React Tailwind</h1>
     </div>
   );
 }
